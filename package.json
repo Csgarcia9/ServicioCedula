@@ -2,7 +2,7 @@
   "name": "tu-servicio-cedula",
   "version": "1.0.0",
   "description": "Servicio web para validar cédulas dominicanas",
-  "main": "/js/server.js",
+  "main": "js/server.js",
   "scripts": {
     "start": "node js/server.js"
   },
