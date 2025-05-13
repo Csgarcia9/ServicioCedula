@@ -1,5 +1,5 @@
 {
-  "name": "tu-servicio-cedula",
+  "name": "Servicio Cédula",
   "version": "1.0.0",
   "description": "Servicio web para validar cédulas dominicanas",
   "main": "js/server.js",
